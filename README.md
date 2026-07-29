@@ -1,16 +1,41 @@
-## Hi there 👋
+### Hi, I'm Jatin 👋
 
-<!--
-**jatinkulkarni3222/jatinkulkarni3222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Computer Engineering student with a foundation in **Data Structures & Algorithms (Java)** and hands-on full-stack experience with **Spring Boot, React.js, and SQL**. Currently exploring **Machine Learning** and how to bring data-driven features into full-stack apps.
 
-Here are some ideas to get you started:
+- 🔭 Currently focused on: building full-stack projects (Spring Boot + React) and strengthening ML fundamentals
+- 🌱 Learning: Scikit-learn, applied ML, advanced DSA patterns
+- 💼 Seeking: Entry-level **Java Full Stack Engineer** roles
+- 📫 Reach me: jatin3222kulkarni@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Java, Python, C++
+**Frontend:** HTML5, CSS3, JavaScript, Bootstrap, React.js, TailwindCSS
+**Backend:** Spring Boot, REST APIs
+**Databases:** MySQL, PostgreSQL, H2
+**ML:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+**Tools:** Git, GitHub, Postman
+
+---
+
+### 🚀 Featured Projects
+
+- **[Bug Tracking System](#)** — Full-stack issue tracker (Spring Boot + React + TailwindCSS) with RESTful APIs, advanced filtering by priority/status, and a personalized "My Issues" dashboard
+- **[AgroGenious](https://github.com/jatinkulkarni3222/agrogenious)** — Interactive platform for farmers and agronomists with smart tools for crop management
+- **[Agrios](#)** — Farmer equipment rental & weather info platform; built responsive UI and integrated backend APIs for live weather/rental data
+- **[ML Learning Journey](https://github.com/jatinkulkarni3222/ml-learning-journey)** — Structured ML learning repo covering data collection, EDA, visualization, preprocessing, and pipelines
+
+---
+
+### 📊 DSA & Achievements
+
+- Solved **120+ problems** on LeetCode (DSA + SQL)
+- 🏅 Java (Basic) & SQL (Advanced) — HackerRank Certified
+
+---
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/jatin-kulkarni-366751292/) • [LeetCode](https://leetcode.com/u/Jatinkulkarni/) • [HackerRank](https://www.hackerrank.com/profile/jatin3222kulkar1)
