@@ -2,8 +2,8 @@
 
 🌱 Computer Engineering student passionate about software development and Machine Learning. Skilled in Java, Spring Boot, SQL, and Python, with hands-on experience building full-stack applications and implementing Machine Learning algorithms from scratch.
 
-- 🔭 Currently focused on: building full-stack projects (Spring Boot + React) and strengthening ML fundamentals
-- 🌱 Learning: Advanced Machine Learning, Scikit-learn, and Data Science workflows
+- 🔭 Currently focused on: Full-Stack Development (Spring Boot + React) and Machine Learning
+- 🌱 Learning: Machine Learning, Advanced DSA, and Model Deployment
 - 💼 Seeking: Entry-level **Java Full Stack Engineer** roles
 - 📫 Reach me: jatin3222kulkarni@gmail.com
 
@@ -25,7 +25,7 @@
 - **[Bug Tracking System](#)** — Full-stack issue tracker (Spring Boot + React + TailwindCSS) with RESTful APIs, advanced filtering by priority/status, and a personalized "My Issues" dashboard
 - **[AgroGenious](https://github.com/jatinkulkarni3222/agrogenious)** — Interactive platform for farmers and agronomists with smart tools for crop management
 - **[Agrios](#)** — Farmer equipment rental & weather info platform; built responsive UI and integrated backend APIs for live weather/rental data
-- **[ML Learning Journey](https://github.com/jatinkulkarni3222/ml-learning-journey)** — Structured ML learning repo covering data collection, EDA, visualization, preprocessing, and pipelines
+- **[ML Learning Journey](https://github.com/jatinkulkarni3222/ml-learning-journey)** — Comprehensive Machine Learning repository featuring topic-wise implementations, from-scratch algorithms, data preprocessing, feature engineering, model building, and practical ML projects.
 
 ---
 
