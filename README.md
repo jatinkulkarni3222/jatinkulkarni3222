@@ -3,7 +3,7 @@
 🌱 Computer Engineering student passionate about software development and Machine Learning. Skilled in Java, Spring Boot, SQL, and Python, with hands-on experience building full-stack applications and implementing Machine Learning algorithms from scratch.
 
 - 🔭 Currently focused on: building full-stack projects (Spring Boot + React) and strengthening ML fundamentals
-- 🌱 Learning: Scikit-learn, applied ML, advanced DSA patterns
+- 🌱 Learning: Advanced Machine Learning, Scikit-learn, and Data Science workflows
 - 💼 Seeking: Entry-level **Java Full Stack Engineer** roles
 - 📫 Reach me: jatin3222kulkarni@gmail.com
 
