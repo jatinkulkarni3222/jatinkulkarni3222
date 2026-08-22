@@ -22,7 +22,7 @@
 
 ### 🚀 Featured Projects
 
-- **[Bug Tracking System]** — Full-stack issue tracker (Spring Boot + React + TailwindCSS) with RESTful APIs, advanced filtering by priority/status, and a personalized "My Issues" dashboard
+- **[Bug Tracking System](https://github.com/jatinkulkarni3222/Bug-Tracking-System)** — Full-stack issue tracker (Spring Boot + React + TailwindCSS) with RESTful APIs, advanced filtering by priority/status, and a personalized "My Issues" dashboard
 - **[AgroGenious](https://github.com/jatinkulkarni3222/agrogenious)** — Interactive platform for farmers and agronomists with smart tools for crop management
 - **[Agrios]** — Farmer equipment rental & weather info platform; built responsive UI and integrated backend APIs for live weather/rental data
 - **[ML Learning Journey](https://github.com/jatinkulkarni3222/ml-learning-journey)** — Comprehensive Machine Learning repository featuring topic-wise implementations, from-scratch algorithms, data preprocessing, feature engineering, model building, and practical ML projects.
